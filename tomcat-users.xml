@@ -86,5 +86,5 @@ drwxr-xr-x 9 root root      220 May 20 17:22 apache-tomcat-9.0.89
 -->
   <role rolename="manager-gui"/>
   <role rolename="manager-script"/>
-  <user username="nikhil" password="nikhil" roles="manager-gui ,manager-script"/>
+  <user username="nikhil" password="nikhil" roles="manager-gui, manager-script"/>
 </tomcat-users>
